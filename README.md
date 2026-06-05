@@ -76,12 +76,12 @@ This project demonstrates end-to-end data analysis skills using SQL, Excel, and 
 ## Screenshots
 
 - Excel Dashboard (KPIs + Charts)
-![](https://github.com/meharbansingh25/Bank_Customer_Churn-Dashbord-Power-Bi-/blob/main/Bank%20Churn%20Analysis/Excel%20Folder/Bank_Customer_Churn_Excel%20Dashbord.png)
+![Excel Dashboard](https://github.com/meharbansingh25/Bank_Customer_Churn-Dashbord-Power-Bi-/blob/main/Bank%20Churn%20Analysis/Excel%20Folder/Bank_Customer_Churn_Excel%20Dashbord.png)
 
 ---
 
 - Power BI Dashboard (Interactive Visuals + Filters)
-![](https://github.com/meharbansingh25/Bank_Customer_Churn-Dashbord-Power-Bi-/blob/main/Bank%20Churn%20Analysis/Power%20Bi%20Folder/Bank_Customer_Churn%20Dashbord%20(Power%20Bi).png)
+![Power BI Dashboard](https://github.com/meharbansingh25/Bank_Customer_Churn-Dashbord-Power-Bi-/blob/main/Bank%20Churn%20Analysis/Power%20Bi%20Folder/Bank_Customer_Churn%20Dashbord%20(Power%20Bi).png)
 ---
 
 ## Author
