@@ -85,4 +85,5 @@ This project demonstrates end-to-end data analysis skills using SQL, Excel, and 
 ---
 
 ## Author
-Meharban Singh
+Meharban Singh 
+Aspiring Data Analyst | SQL | Excel | Power BI
